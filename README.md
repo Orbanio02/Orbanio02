@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently student at Philippines <br>👯 I’m looking to collaborate on senior dev<br>🤝 I’m looking for help with teaching techniques <br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently dev at Philippines <br>👯 I’m looking a mentor dev<br>🤝 I’m willing to learn new techniques <br>🌱 I’m currently learning AI<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
